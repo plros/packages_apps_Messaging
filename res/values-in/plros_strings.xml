@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2021 The exTHmUI Open Source Project
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <string name="dialog_delete_title">Hapus</string>
+    <string name="dialog_delete_message">Hapus item yang terpilih?</string>
+
+    <!-- Captcha -->
+    <string name="captcha_copy_action">Salin %s</string>
+    <string name="captcha_has_copied_toast">Kode verifikasi telah tersalin ke dalam papan klip, sentuh lama kotak input untuk menempel</string>
+    <string name="captcha_enable_title">Pendeteksi Captcha</string>
+    <string name="captcha_enable_summary">Cek kode verifikasi dari SMS dan tampilkan tombol salin di notifikasi</string>
+
+    <string name="captcha_keywords_title">Kata kunci Captcha</string>
+    <string name="captcha_keywords_footer">Jika kata kunci kosong, maka akan direset ke daftar kata kunci default</string>
+    <string name="add_captcha_keyword">Tambah kata kunci</string>
+</resources>
