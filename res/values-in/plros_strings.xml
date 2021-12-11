@@ -24,4 +24,11 @@
     <string name="captcha_keywords_title">Kata kunci Captcha</string>
     <string name="captcha_keywords_footer">Jika kata kunci kosong, maka akan direset ke daftar kata kunci default</string>
     <string name="add_captcha_keyword">Tambah kata kunci</string>
+
+    <!-- Quick Reply -->
+    <string name="show_quick_reply_templates_title">Template balasan cepat</string>
+    <string name="show_quick_reply_templates_summary">Tampilkan template balasan cepat di notifikasi</string>
+
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Tandai telah dibaca</string>
 </resources>
